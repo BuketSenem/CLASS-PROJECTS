@@ -83,7 +83,7 @@ p{
 .logo-img{
     width: 25%;
     margin: 1rem;
-    -webkit-filter: drop-shadow(5px 5px 5px #cac2c2); 
+    -webkit-filter: drop-shadow(5px 5px 5px #000000); 
 
 }
 
@@ -100,10 +100,11 @@ p{
     padding: 2rem;
     border-top-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
-    outline: 0.5rem inset rgb(82, 49, 35);
+    outline: 0.5rem outset rgb(82, 49, 35);
     outline-offset: 1rem;
     text-transform: uppercase;
     line-height: 5rem;
+    
 }
 
 .first-section,.second-section,.third-section,.fourth-section{
