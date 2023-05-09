@@ -84,7 +84,7 @@ p{
     width: 25%;
     margin: 1rem;
     -webkit-filter: drop-shadow(5px 5px 5px #000000); 
-
+    filter: drop-shadow(5px 5px 5px #000000);
 }
 
 .heading-container{
